@@ -1,0 +1,180 @@
+{
+  "project": "PCM Catálogo Meta",
+  "version": "1.0.0",
+  "status": "OFICIAL_Y_CONGELADO",
+  "repository": "martincitomxloficial/pcm-imagenes-catalogo",
+  "branch": "main",
+  "frozenAt": "2026-07-30T10:26:53.312Z",
+  "movedFiles": [
+    {
+      "sku": "ALM-0013",
+      "from": "ALM-0013.jpg",
+      "to": "img/la-cocina-de-martin/a-la-mesa/ALM-0013.jpg"
+    },
+    {
+      "sku": "ALM-0014",
+      "from": "ALM-0014.jpg",
+      "to": "img/la-cocina-de-martin/a-la-mesa/ALM-0014.jpg"
+    },
+    {
+      "sku": "ALM-0015",
+      "from": "ALM-0015.jpg",
+      "to": "img/la-cocina-de-martin/a-la-mesa/ALM-0015.jpg"
+    },
+    {
+      "sku": "HFL-0001",
+      "from": "HFL-0001.jpg",
+      "to": "img/hidden-flavors/hidden-flavors/HFL-0001.jpg"
+    },
+    {
+      "sku": "MKA-0001",
+      "from": "MKA-0001.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0001.jpg"
+    },
+    {
+      "sku": "MKA-0002",
+      "from": "MKA-0002.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0002.jpg"
+    },
+    {
+      "sku": "MKA-0003",
+      "from": "MKA-0003.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0003.jpg"
+    },
+    {
+      "sku": "MKA-0004",
+      "from": "MKA-0004.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0004.jpg"
+    },
+    {
+      "sku": "MKA-0005",
+      "from": "MKA-0005.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0005.jpg"
+    },
+    {
+      "sku": "MKA-0006",
+      "from": "MKA-0006.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0006.jpg"
+    },
+    {
+      "sku": "MKA-0007",
+      "from": "MKA-0007.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0007.jpg"
+    },
+    {
+      "sku": "MKA-0008",
+      "from": "MKA-0008.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0008.jpg"
+    },
+    {
+      "sku": "MKA-0009",
+      "from": "MKA-0009.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0009.jpg"
+    },
+    {
+      "sku": "MKA-0010",
+      "from": "MKA-0010.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0010.jpg"
+    },
+    {
+      "sku": "MKA-0011",
+      "from": "MKA-0011.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0011.jpg"
+    },
+    {
+      "sku": "MKA-0012",
+      "from": "MKA-0012.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0012.jpg"
+    },
+    {
+      "sku": "MKA-0013",
+      "from": "MKA-0013.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0013.jpg"
+    },
+    {
+      "sku": "MKA-0014",
+      "from": "MKA-0014.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0014.jpg"
+    },
+    {
+      "sku": "MKA-0015",
+      "from": "MKA-0015.jpg",
+      "to": "img/mary-kay/mary-kay/MKA-0015.jpg"
+    },
+    {
+      "sku": "MRW-0001",
+      "from": "MRW-0001.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0001.jpg"
+    },
+    {
+      "sku": "MRW-0002",
+      "from": "MRW-0002.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0002.jpg"
+    },
+    {
+      "sku": "MRW-0003",
+      "from": "MRW-0003.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0003.jpg"
+    },
+    {
+      "sku": "MRW-0004",
+      "from": "MRW-0004.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0004.jpg"
+    },
+    {
+      "sku": "MRW-0005",
+      "from": "MRW-0005.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0005.jpg"
+    },
+    {
+      "sku": "MRW-0006",
+      "from": "MRW-0006.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0006.jpg"
+    },
+    {
+      "sku": "MRW-0007",
+      "from": "MRW-0007.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0007.jpg"
+    },
+    {
+      "sku": "MRW-0008",
+      "from": "MRW-0008.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0008.jpg"
+    },
+    {
+      "sku": "MRW-0009",
+      "from": "MRW-0009.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0009.jpg"
+    },
+    {
+      "sku": "MRW-0010",
+      "from": "MRW-0010.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0010.jpg"
+    },
+    {
+      "sku": "MRW-0011",
+      "from": "MRW-0011.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0011.jpg"
+    },
+    {
+      "sku": "MRW-0012",
+      "from": "MRW-0012.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0012.jpg"
+    },
+    {
+      "sku": "MRW-0013",
+      "from": "MRW-0013.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0013.jpg"
+    },
+    {
+      "sku": "MRW-0014",
+      "from": "MRW-0014.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0014.jpg"
+    },
+    {
+      "sku": "MRW-0015",
+      "from": "MRW-0015.jpg",
+      "to": "img/mr-wolf-supplements/catalogo/MRW-0015.jpg"
+    }
+  ]
+}
